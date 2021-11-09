@@ -1,0 +1,11 @@
+:root {
+    --bs-gradient: linear-gradient(to right, rgba(173, 83, 137, 1), rgba(60, 16, 83, 1)) !important;
+}
+.border-primary {
+    border-color: #ad5389 !important;
+}
+
+header {
+    background-image: url( /images/cta02.jpg);
+    
+}
